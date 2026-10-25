@@ -1,0 +1,26 @@
+
+# For nextjs 
+.next 
+
+
+# for env
+.env 
+.env.production 
+.env.development
+
+# for node modules
+node_modules
+
+# for pnpm lock files
+pnpm-lock.yaml
+pnpm-lock.json
+
+# for yarn lock files
+yarn.lock
+
+# for npm lock files
+npm-debug.log
+package-lock.json
+
+
+.DS_Store

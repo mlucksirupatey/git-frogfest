@@ -1,0 +1,17 @@
+{
+  "name": "claim_setu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "db:migrate": "node scripts/migrate.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "minio": "^8.0.7",
+    "next-auth": "5.0.0-beta.32"
+  }
+}
